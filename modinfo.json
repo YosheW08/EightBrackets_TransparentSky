@@ -1,0 +1,12 @@
+{
+	"id": "wawaingnewmod",
+	"name": "Region Test",
+	"version": "i love him so badly",
+	"authors": "YosheW_",
+	"description": "Achooo",
+	"requirements": [],
+	"requirements_names": [],
+	"tags": ["Regions"],
+	"priorities": ["moreslugcats"],
+	"checksum_override_version": false,
+}

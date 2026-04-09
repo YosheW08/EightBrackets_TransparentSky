@@ -1,0 +1,10 @@
+{
+  "WorkshopID": 0,
+  "LatestGameVersion": "v1.11",
+  "UpdateTitle": true,
+  "UpdateDescription": false,
+  "MarkAsPublic": false,
+  "Tags": [
+    "Regions"
+  ]
+}

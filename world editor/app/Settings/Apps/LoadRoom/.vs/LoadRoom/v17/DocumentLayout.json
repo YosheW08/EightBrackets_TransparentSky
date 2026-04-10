@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ericer\\Documents\\Rain World Documents\\Releases\\World Editor Github\\Dev\\Settings\\Apps\\LoadRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D523C-C092-4408-BF00-BF0571A90ECA}|LoadRoom\\LoadRoom.csproj|c:\\users\\ericer\\documents\\rain world documents\\releases\\world editor github\\dev\\settings\\apps\\loadroom\\loadroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1D523C-C092-4408-BF00-BF0571A90ECA}|LoadRoom\\LoadRoom.csproj|solutionrelative:loadroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LoadRoom||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadRoom",
+              "DocumentMoniker": "C:\\Users\\ericer\\Documents\\Rain World Documents\\Releases\\World Editor Github\\Dev\\Settings\\Apps\\LoadRoom\\LoadRoom\\LoadRoom.csproj",
+              "RelativeDocumentMoniker": "LoadRoom\\LoadRoom.csproj",
+              "ToolTip": "C:\\Users\\ericer\\Documents\\Rain World Documents\\Releases\\World Editor Github\\Dev\\Settings\\Apps\\LoadRoom\\LoadRoom\\LoadRoom.csproj",
+              "RelativeToolTip": "LoadRoom\\LoadRoom.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-06-12T07:13:07.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ericer\\Documents\\Rain World Documents\\Releases\\World Editor Github\\Dev\\Settings\\Apps\\LoadRoom\\LoadRoom\\Program.cs",
+              "RelativeDocumentMoniker": "LoadRoom\\Program.cs",
+              "ToolTip": "C:\\Users\\ericer\\Documents\\Rain World Documents\\Releases\\World Editor Github\\Dev\\Settings\\Apps\\LoadRoom\\LoadRoom\\Program.cs",
+              "RelativeToolTip": "LoadRoom\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-12T05:06:14.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"id": "foxcub.eighbracketstransparentsky",
+	"name": "Beyond the Horizon",
+	"version": "0.0.0.0a",
+	"authors": "YosheW_ and FoxCub",
+	"description": "Achooo",
+	"requirements": [],
+	"requirements_names": [],
+	"tags": ["Regions"],
+	"priorities": ["moreslugcats"],
+	"checksum_override_version": false,
+}

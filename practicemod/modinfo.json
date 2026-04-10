@@ -2,11 +2,11 @@
 	"id": "foxyo.test",
 	"name": "Region Test",
 	"version": ":3",
-	"authors": "YosheW_ and Foxcub"
+	"authors": "YosheW_ and Foxcub",
 	"description": "Achooo",
 	"requirements": [],
 	"requirements_names": [],
 	"tags": ["Regions"],
 	"priorities": ["moreslugcats"],
-	"checksum_override_version": false,
+	"checksum_override_version": false
 }

@@ -7,6 +7,6 @@
 	"requirements": [],
 	"requirements_names": [],
 	"tags": ["Regions"],
-	"priorities": ["moreslugcats"],
+	"priorities": ["moreslugcats", "floodgate", "expanded_outskirts"],
 	"checksum_override_version": false
 }

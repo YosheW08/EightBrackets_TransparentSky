@@ -1,10 +1,7 @@
 [MERGE]
 ROOMS
-SU_A63 : SU_B12, SU_A37, SU_yoshewtest
-SU_yoshewtest : SU_A63, SU_Scustom, SU_PushTest
-SU_PushTest : SU_yoshewtest, SU_bridge, DISCONNECTED
-SU_Scustom : SU_yoshewtest : SHELTER
-SU_bridge : DISCONNECTED, SU_PushTest
+SU_A63 : SU_B12, SU_A37, SU_bridge
+SU_bridge : DISCONNECTED, SU_A63
 END ROOMS
 [ENDMERGE]
 

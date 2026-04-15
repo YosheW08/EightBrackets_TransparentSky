@@ -1,7 +1,0 @@
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\bin\Debug\LoadRoom.exe.config
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\bin\Debug\LoadRoom.exe
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\bin\Debug\LoadRoom.pdb
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\obj\Debug\LoadRoom.csproj.AssemblyReference.cache
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\obj\Debug\LoadRoom.csproj.CoreCompileInputs.cache
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\obj\Debug\LoadRoom.exe
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\LoadRoom\LoadRoom\obj\Debug\LoadRoom.pdb

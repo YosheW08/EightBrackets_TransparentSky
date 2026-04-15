@@ -1,8 +1,0 @@
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\bin\Debug\ClimbablesFix.exe.config
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\bin\Debug\ClimbablesFix.exe
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\bin\Debug\ClimbablesFix.pdb
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\obj\Debug\ClimbablesFix.csproj.AssemblyReference.cache
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\obj\Debug\ClimbablesFix.csproj.SuggestedBindingRedirects.cache
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\obj\Debug\ClimbablesFix.csproj.CoreCompileInputs.cache
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\obj\Debug\ClimbablesFix.exe
-C:\Users\ericer\Documents\Rain World Documents\Releases\World Editor Github\Dev\Settings\Apps\ClimbablesFix\ClimbablesFix\obj\Debug\ClimbablesFix.pdb

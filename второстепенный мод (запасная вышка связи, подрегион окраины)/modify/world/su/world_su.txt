@@ -4,7 +4,8 @@ SU_A40 : SU_startMast, SU_A17, DISCONNECTED, SU_B07 : SWARMROOM
 SU_A17 : SU_sm1, SU_A40, SU_B12
 SU_sm1 : SU_sm2, SU_startMast, SU_A17
 SU_startMast : SU_sm1, SU_A40 
-SU_sm2 : SU_sm3, DISCONNECTED, SU_sm1
+SU_sm2 : SU_sm3, SU_ShelterAUX1, SU_sm1
+SU_ShelterAUX1 : SU_sm2 : SHELTER
 SU_sm3 : SU_mm1, SU_sm2
 SU_mm1 : DISCONNECTED, SU_sm3
 END ROOMS 

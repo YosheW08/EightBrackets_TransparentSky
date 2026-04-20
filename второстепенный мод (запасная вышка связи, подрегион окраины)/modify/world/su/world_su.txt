@@ -7,6 +7,7 @@ SU_startMast : SU_sm1, SU_A40
 SU_sm2 : SU_sm3, SU_ShelterAUX1, SU_sm1
 SU_ShelterAUX1 : SU_sm2 : SHELTER
 SU_sm3 : SU_mm1, SU_sm2
-SU_mm1 : DISCONNECTED, SU_sm3
+SU_mm1 : SU_mm2, SU_sm3
+SU_mm2 : DISCONNEDTED, SU_mm1
 END ROOMS 
 [ENDMERGE]

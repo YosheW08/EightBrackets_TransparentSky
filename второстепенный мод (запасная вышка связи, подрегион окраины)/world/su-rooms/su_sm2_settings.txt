@@ -1,0 +1,2 @@
+CeilingDrips: 0.6855976
+Clouds: 0.5866958

@@ -1,0 +1,6 @@
+Clouds: 0.01443614
+Palette: 15
+EffectColorA: 0
+EffectColorB: 6
+AmbientSounds: SPOT><SO_SFX-Data1.ogg><731.9276><491.3722><0.5><1><552.2441><652.7274><-35.35534><-35.35534><0><0.1, SPOT><SO_SFX-Data2.ogg><712.8864><473.9593><0.5><1><610.0406><751.2822><-35.35534><-35.35534><0><0.1, SPOT><SO_SFX-Data4.ogg><725.8347><442.5653><0.5><1><257.2992><392.6174><-35.35534><-35.35534><0><0.1, SPOT><SO_SFX-Data4.ogg><720.1814><447.3466><0.5><1><902.6304><398.1101><-35.35534><-35.35534><0><0.1, OMNI><MSC-StructureStrain.ogg><735.3087><206.097><0.3608007><0.262249, OMNI><AM_WIN-MedWind.ogg><736.453><128.9113><0.5695987><0.9582412, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_72 - Satellite<eA>vol<eB>0.1530695<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>671.6777<tB>217.6739<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>582.3495<tB>507.0917<tA>handlePos<tB>-235.9866<tB>-107.9241, 

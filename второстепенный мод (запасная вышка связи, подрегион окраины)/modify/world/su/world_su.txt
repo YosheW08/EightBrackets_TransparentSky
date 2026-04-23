@@ -8,6 +8,10 @@ SU_sm2 : SU_sm3, SU_ShelterAUX1, SU_sm1
 SU_ShelterAUX1 : SU_sm2 : SHELTER
 SU_sm3 : SU_mm1, SU_sm2
 SU_mm1 : SU_mm2, SU_sm3
-SU_mm2 : DISCONNEDTED, SU_mm1
+SU_mm2 : SU_mm3, SU_mm1
+SU_mm3 : SU_mm4, DISCONNECTED, DISCONNECTED, SU_mm2
+SU_mm4 : SU_mm5, SU_mm3
+SU_mm5 : SU_mmTOP, SU_mm4
+SU_mmTOP : SU_mm5
 END ROOMS 
 [ENDMERGE]

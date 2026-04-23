@@ -1,2 +1,4 @@
-CeilingDrips: 0.6855976
+Template: su_settingstemplate_inside
 Clouds: 0.5866958
+EffectColorB: 6
+AmbientSounds: SPOT><RWTW_AR_ErrorBop.ogg><764.9543><411.2069><0.5><1><409.8211><478.1393><-23.26056><-26.81781><0><0.1, SPOT><AM_IND-ElectricHum03.ogg><789.0356><263.0067><0.5><1><411.1357><252.39><-52.43036><-60.25639><0><0.1, 

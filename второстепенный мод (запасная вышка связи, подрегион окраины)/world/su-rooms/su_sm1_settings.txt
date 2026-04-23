@@ -1,1 +1,4 @@
 EffectColorA: 9
+EffectColorB: 6
+AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><854.2549><267.7278><0.5><1><640.5831><1024.708><5.909363><-96.54073><0><0.1, SPOT><AM_IND-ElectricHum01.ogg><893.8665><429.8848><0.5><1><642.4874><1270.106><-101.5209><-35.35529><0><0.1, SPOT><AM_ENV-LightWind.ogg><353.7713><419.0594><0.3685353><1.083519><59.70456><824.5793><317.528><-489.9772><0><0.4247967, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_30 - Distance<eA>vol<eB>0.3077313<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>690.1033<tB>216.8925<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>571.0552<tB>1204.048<tA>handlePos<tB>-406.0251<tB>-150.6116, 

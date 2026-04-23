@@ -1,2 +1,3 @@
 EffectColorA: 9
-FadePalette: 15, 0.3426743, 0.1546651, 0
+EffectColorB: 6
+AmbientSounds: OMNI><AM_WIN-MedWind.ogg><124.824><363.5847><0.3762671><1.083519, OMNI><MSC-StructureStrain.ogg><699.5488><205.9583><0.3221356><0.262249, 

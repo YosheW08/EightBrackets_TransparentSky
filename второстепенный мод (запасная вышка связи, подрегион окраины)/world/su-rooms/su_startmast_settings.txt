@@ -1,1 +1,2 @@
 EffectColorA: 9
+EffectColorB: 6

@@ -1,2 +1,0 @@
-Palette: 0
-EffectColorA: 9
